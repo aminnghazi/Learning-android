@@ -69,6 +69,7 @@ Button close;
         @Override
         public void onClick(View v) {
             MyDialog.cancel();
+
         }
     });
     MyDialog.show();
