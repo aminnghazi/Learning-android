@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CreateRecyclerview</string>
+    <string-array name="des">
+        <item>aaaa</item>
+        <item>bbbb</item>
+        <item>cccc</item>
+        <item>dddd</item>
+        <item>eeee</item>
+        <item>ffff</item>
+        <item>gggg</item>
+        <item>hhhh</item>
+    </string-array>
+    <string name="s">salam</string>
+</resources>
